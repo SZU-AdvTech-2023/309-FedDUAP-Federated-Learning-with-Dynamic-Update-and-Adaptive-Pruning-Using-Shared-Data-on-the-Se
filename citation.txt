@@ -1,0 +1,6 @@
+@article{REPO309,
+    author = "Zhang, Hong and Liu, Ji and Jia, Juncheng and Zhou, Yang and Dai, Huaiyu and Dou, Dejing",
+    journal = "arXiv preprint arXiv:2204.11536",
+    title = "{FedDUAP: Federated Learning with Dynamic Update and Adaptive Pruning Using Shared Data on the Server}",
+    year = "2022"
+}
